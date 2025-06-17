@@ -1,5 +1,4 @@
-# batalha-naval-em-c
-Jogo de Batalha Naval em C usando vetores, matrizes e condicionais.
+
 # Batalha Naval em C 🚢💥
 
 Este é um projeto de um jogo simplificado de **Batalha Naval** desenvolvido em linguagem C, como parte dos desafios práticos da disciplina de Programação.
